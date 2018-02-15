@@ -1,4 +1,4 @@
-# JavaScript Objects
+git pull orig# JavaScript Objects
 
 ## Objectives
 + Explain what an object is in JavaScript is
